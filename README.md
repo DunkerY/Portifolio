@@ -19,7 +19,8 @@ Ao longo da minha jornada, tenho focado em me tornar um desenvolvedor versátil,
 
 ## 🌐 Acesso ao Projeto
 O portfólio está hospedado no GitHub Pages e pode ser acessado diretamente pelo link abaixo:
-🔗 [Acessar meu portfólio online](https://DunkerY.github.io/Portifolio/)
+
+##🔗 [Acessar meu portfólio online](https://DunkerY.github.io/Portifolio/)
 
 ## 📫 Como me encontrar
 Se quiser bater um papo sobre tecnologia, código ou oportunidades, sinta-se à vontade para me chamar:
